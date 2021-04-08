@@ -1,0 +1,11 @@
+.todo-list {
+    span {
+        cursor: pointer;
+    }
+
+    span.completed {
+        color: gray;
+        font-style: italic;
+        text-decoration: line-through;
+    }
+}
